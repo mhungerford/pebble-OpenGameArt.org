@@ -1,14 +1,15 @@
-pebble-firstwatch
+pebble-OpenGameArt.org
 =================
 
-For Pebble Smartwatch - Basic watchface template with date, time and multiple background images.
+Flick your wrist to flip through 11 images from OpenGameArt.org.
+OpenGameArt.org is a site providing art licensed under Creative-Commons.
+Outline Font is based on the Boxy font also found on OpenGameArt.org.
 
-Allows for changing backgrounds based on time or day of week (ie. coffee cup background before 8AM, or yoga on tuesdays@5PM).
+[OpenGameArt.org on Pebble AppStore](pebble://appstore/5349f76e085291de2e0000fa)
 
-Also allows wrist-flick to switch through all images.
-
-Images are from OpenGameArt.org
-
+![golem](https://github.com/mhungerford/pebble-firstwatch/raw/master/resources/images/golem.png)|
+![demon](https://github.com/mhungerford/pebble-firstwatch/raw/master/resources/images/demon.png)|
+![wolf](https://github.com/mhungerford/pebble-firstwatch/raw/master/resources/images/wolf.png)|
 ![stone-giant](https://github.com/mhungerford/pebble-firstwatch/raw/master/resources/images/stone-giant.png)
 
 Font is a modified version of Boxy-Bold from OpenGameArt.org
