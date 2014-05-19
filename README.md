@@ -5,12 +5,12 @@ Flick your wrist to flip through 11 images from OpenGameArt.org.
 OpenGameArt.org is a site providing art licensed under Creative-Commons.
 Outline Font is based on the Boxy font also found on OpenGameArt.org.
 
-[OpenGameArt.org on Pebble AppStore](pebble://appstore/5349f76e085291de2e0000fa)
+[OpenGameArt.org on Pebble AppStore](https://apps.getpebble.com/applications/5349f76e085291de2e0000fa)
 
-![golem](https://github.com/mhungerford/pebble-firstwatch/raw/master/resources/images/golem.png)|
-![demon](https://github.com/mhungerford/pebble-firstwatch/raw/master/resources/images/demon.png)|
-![wolf](https://github.com/mhungerford/pebble-firstwatch/raw/master/resources/images/wolf.png)|
-![stone-giant](https://github.com/mhungerford/pebble-firstwatch/raw/master/resources/images/stone-giant.png)
+![golem](https://github.com/mhungerford/pebble-OpenGameArt.org/raw/master/resources/images/golem.png)|
+![demon](https://github.com/mhungerford/pebble-OpenGameArt.org/raw/master/resources/images/demon.png)|
+![wolf](https://github.com/mhungerford/pebble-OpenGameArt.org/raw/master/resources/images/wolf.png)|
+![stone-giant](https://github.com/mhungerford/pebble-OpenGameArt.org/raw/master/resources/images/stone-giant.png)
 
 Font is a modified version of Boxy-Bold from OpenGameArt.org
 Boxy-Bold.ttf
